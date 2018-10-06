@@ -1,0 +1,44 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+= Jenkins 改善提议
+
+JEP 代表 Jenkins 改善提议。
+JEP 是描述 Jenkins 核心代码、插件或 Jenkins 项目的一个新特性或某一方面的设计文档，包括它的过程或环境。
+JEP 为特性提供一个简洁的技术规范，描述变更的动机，以及讨论设计背后的基本原理。
+
+JEPs are the primary mechanism for proposing major new
+features, for collecting community input on an issue, and for
+documenting the design decisions that have gone into Jenkins.
+
+* See link:jep/1/README.adoc[JEP-1] for a description of JEPs and the JEP process.
+* link:https://github.com/jenkinsci/jep/blob/master/jep/README.adoc[Index of all JEPs] approved at least as drafts.
+
+There is also a video of a presentation giving an
+link:https://youtu.be/d7Oy4Qq-Tjw[overview of the JEP Process].
+
+Each week we have Jenkins Enhancement Proposal Office Hours. The time and link to these can be found on https://jenkins.io/event-calendar/.
+
+== License
+
+This repository's contents are considered under the
+**link:https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike 4.0] license**.
+
+You are free to:
+
+* **Share** - copy and redistribute the material in any medium or format
+* **Adapt** - remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+* **Attribution** - You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+* **ShareAlike** - If you remix, transform, or build upon the material, you must
+  distribute your contributions under the same license as the original.
