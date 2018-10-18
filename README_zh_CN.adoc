@@ -15,6 +15,7 @@ JEP 为特性提供一个简洁的技术规范，描述变更的动机，以及�
 JEPs are the primary mechanism for proposing major new
 features, for collecting community input on an issue, and for
 documenting the design decisions that have gone into Jenkins.
+JEP 是
 
 * See link:jep/1/README.adoc[JEP-1] for a description of JEPs and the JEP process.
 * link:https://github.com/jenkinsci/jep/blob/master/jep/README.adoc[Index of all JEPs] approved at least as drafts.
